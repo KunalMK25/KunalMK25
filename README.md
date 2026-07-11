@@ -1,22 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:4B0082,100:6A0DAD&height=280&section=header&text=Kunal%20M%20K&fontSize=70&fontColor=E6D9FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:4B0082,100:6A0DAD&height=280&section=header&text=Kunal%20M%20K&fontSize=70&fontColor=E6D9FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B18CFF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+at+Scale;Software+Engineer+%7C+AI%2FML+Enthusiast;Full+Stack+Developer+%7C+Product+Thinker;Turning+Ideas+Into+Production-Grade+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B18CFF&center=true&vCenter=true&width=650&lines=Building+AI-Integrated+Systems;Machine+Learning+%7C+Generative+AI+%7C+Multi-Agent+Systems;Competitive+Programmer+%7C+DSA+Enthusiast;Turning+Ideas+Into+Production-Grade+Software" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![B.E. CSE](https://img.shields.io/badge/B.E.-Computer%20Science%20%26%20Engineering-4B0082?style=for-the-badge&logo=googlescholar&logoColor=E6D9FF)
-![VTU](https://img.shields.io/badge/VTU-Affiliated-6A0DAD?style=for-the-badge&logo=readthedocs&logoColor=E6D9FF)
-![Location](https://img.shields.io/badge/Location-Mandya%2C%20Karnataka-5A189A?style=for-the-badge&logo=googlemaps&logoColor=E6D9FF)
+![Location](https://img.shields.io/badge/Location-Mysore%2C%20Karnataka-5A189A?style=for-the-badge&logo=googlemaps&logoColor=E6D9FF)
 
 <br/>
 
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kunal-m-k-256153171"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kunalmk2005@gmail.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/KunalMK25"><img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
@@ -35,24 +33,23 @@
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-I'm a **Computer Science & Engineering** undergraduate at **P.E.S. College of Engineering (PESCE), Mandya**, focused on building production-grade software systems at the intersection of **full-stack engineering**, **applied AI/ML**, and **product design**.
+I'm a **Computer Science & Engineering** undergraduate (penultimate year) at **P.E.S. College of Engineering (PESCE), Mandya**, based out of Mysore, with hands-on experience building **AI-integrated systems**, **ML pipelines**, and production-grade applications.
 
-My work spans **geospatial routing algorithms**, **multi-agent AI research pipelines**, **blockchain-based security tooling**, and **academic-grade document automation systems** — all engineered with a strong emphasis on clean architecture, performance, and real-world usability.
+I work primarily in **Python, Java, and C++**, with strong foundations in data structures, algorithms, and software design. My project work spans **multi-threaded concurrent systems**, **multi-agent AI pipelines**, **geospatial machine learning**, and **blockchain-based on-chain verification** — using AI tools to understand and integrate the moving parts across these domains rather than building traditional full-stack products.
 
-I lead technical initiatives on campus as **GDGoC Lead**, mentor peers as **CSE Club Head**, and drive placement readiness as **Student Placement Coordinator** — combining engineering depth with community leadership.
+I'm also an active **competitive programmer** and lead the **Google Developer Group on Campus (GDGoC)** at PESCE, driving technical community outcomes through workshops and events.
 
 ```yaml
 Engineer:
-  focus: [Software Engineering, AI/ML Systems, Full Stack Development]
-  mindset: Product-first, performance-obsessed, detail-driven
-  currently: Building autonomous AI agents & scalable web platforms
+  focus: [AI/ML Systems, Concurrent & Distributed Programming, Blockchain Integration]
+  mindset: Problem-first, detail-driven, always learning
+  currently: Sharpening DSA + exploring Deep Learning foundations
 ```
 
 **🎯 Open To:**
 
 ![Open](https://img.shields.io/badge/Software%20Engineering%20Roles-4B0082?style=flat-square&logoColor=white)
 ![Open](https://img.shields.io/badge/AI%2FML%20Engineering-6A0DAD?style=flat-square&logoColor=white)
-![Open](https://img.shields.io/badge/Full%20Stack%20Development-7B2FF7?style=flat-square&logoColor=white)
 ![Open](https://img.shields.io/badge/Research%20Collaborations-9D4EDD?style=flat-square&logoColor=white)
 ![Open](https://img.shields.io/badge/Open%20Source%20Contributions-5A189A?style=flat-square&logoColor=white)
 
@@ -66,19 +63,38 @@ Engineer:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql&theme=dark" />
 
-**Frontend**
+**AI & ML**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux&theme=dark" />
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-4B0082?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-6A0DAD?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-7B2FF7?style=flat-square&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-4B0082?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-6A0DAD?style=flat-square&logoColor=white)
+![Chroma](https://img.shields.io/badge/ChromaDB-7B2FF7?style=flat-square&logoColor=white)
 
-**Backend & Databases**
+**Blockchain**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,mysql,firebase,postgres&theme=dark" />
+![Stellar](https://img.shields.io/badge/Stellar%2FSoroban-4B0082?style=flat-square&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-6A0DAD?style=flat-square&logo=ipfs&logoColor=white)
+![SHA--256](https://img.shields.io/badge/SHA--256%20Hashing-7B2FF7?style=flat-square&logoColor=white)
 
-**Cloud, DevOps & Tooling**
+**Concurrency**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,githubactions,vercel,postman,linux,vscode&theme=dark" />
+![Multithreading](https://img.shields.io/badge/Multithreading-4B0082?style=flat-square&logoColor=white)
+![ThreadPoolExecutor](https://img.shields.io/badge/ThreadPoolExecutor-6A0DAD?style=flat-square&logoColor=white)
+![Producer Consumer](https://img.shields.io/badge/Producer--Consumer%20Pattern-7B2FF7?style=flat-square&logoColor=white)
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,fastapi,jupyter,vscode&theme=dark" />
+![Streamlit](https://img.shields.io/badge/Streamlit-4B0082?style=flat-square&logo=streamlit&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-6A0DAD?style=flat-square&logoColor=white)
+
+**Cloud**
+
+<img src="https://skillicons.dev/icons?i=gcp&theme=dark" />
 
 </div>
 
@@ -90,12 +106,12 @@ Engineer:
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Machine Learning Fundamentals** | ⭐⭐⭐⭐☆ | Dimensionality reduction, clustering, model validation, predictive performance measures |
-| **Multi-Agent AI Systems** | ⭐⭐⭐⭐☆ | Designed 5-agent pipelines (Planner–Researcher–Verifier–Synthesizer–Reporter) |
-| **LLM Integration** | ⭐⭐⭐⭐☆ | Gemini API, Groq LLaMA 3.3, prompt engineering, agentic workflows |
-| **Data Mining** | ⭐⭐⭐⭐☆ | Feature engineering, source-fidelity analysis, applied statistical methods |
-| **Geospatial ML & Routing** | ⭐⭐⭐☆☆ | Dijkstra-based fairness scoring, network graph optimization |
-| **Research Automation** | ⭐⭐⭐⭐☆ | Autonomous research pipelines with Tavily-based retrieval & synthesis |
+| **Machine Learning** | ⭐⭐⭐⭐☆ | Random Forest, SVM, model validation, feature engineering, cross-validation |
+| **Generative AI** | ⭐⭐⭐⭐☆ | LLMs, prompt engineering, RAG pipelines, Google Cloud GenAI Fundamentals |
+| **Multi-Agent Systems** | ⭐⭐⭐⭐☆ | Designed AI agent pipelines for static, semantic, and dynamic analysis |
+| **LLM Integration** | ⭐⭐⭐⭐☆ | Groq API, LangChain, Llama-3.1, embeddings, vector databases (FAISS, Chroma) |
+| **Data Analytics** | ⭐⭐⭐⭐☆ | Pandas, NumPy, Matplotlib, exploratory data analysis, statistical modeling |
+| **Geospatial ML** | ⭐⭐⭐☆☆ | Satellite data processing, distributed grid-cell computation, GeoPandas, Rasterio |
 
 </div>
 
@@ -104,59 +120,97 @@ Engineer:
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🚇 MetroMeet AI — Smart Metro Meetpoint Coordinator</b></summary>
+<summary><b>🌊 Flood Risk Zonation System</b></summary>
 <br/>
 
-Single-file web application solving the group meetpoint coordination problem across Bangalore's **Namma Metro** network. Features a hand-rolled Canvas map renderer, Dijkstra-based routing with fairness scoring, and a rule-based offline chatbot for user assistance.
+A scalable ML geospatial application processing live satellite data (NASA SRTM 30m DEM) to generate real-time flood risk maps for any global region.
 
 | Aspect | Details |
 |---|---|
-| **Stack** | HTML5, CSS3, Vanilla JS, Canvas API |
-| **Scale** | Full Namma Metro network graph |
-| **Performance** | Sub-second multi-node shortest path computation |
-| **Security** | Fully client-side, zero external data exposure |
-| **Impact** | Fair, optimal meetpoint suggestions for group travel |
-| **Repository** | `D:\MetroMeet-AI\` (Local) |
+| **Stack** | Python, Scikit-learn, GeoPandas, Rasterio, Streamlit, Folium, NASA SRTM |
+| **Scale** | Distributed grid-cell computation at 500m resolution, any global region |
+| **Performance** | Random Forest with 5-fold cross-validation, AUC ≈ 0.97 |
+| **Security** | Read-only public satellite data ingestion, no sensitive data handling |
+| **Impact** | End-to-end ingestion → training → inference → export pipeline |
+| **Repository** | [github.com/KunalMK25](https://github.com/KunalMK25) |
 
-Engineered a custom graph-based routing engine with fairness-weighted scoring rather than relying on third-party mapping SDKs, paired with a futuristic glassmorphism interface for an immersive user experience.
+Built a 10-feature extraction pipeline and deployed it on Streamlit Cloud with interactive map overlays and automated PDF report generation — delivering a complete production-grade user experience.
 
 </details>
 
 <details>
-<summary><b>🔬 Verity AI — Autonomous Research Swarm Platform</b></summary>
+<summary><b>🕸️ ThreadCrawl — Concurrent Web Crawler with Thread Pool</b></summary>
 <br/>
 
-An autonomous multi-agent research platform orchestrating a 5-stage pipeline — Planner, Researcher, Verifier, Synthesizer, and Reporter — to conduct end-to-end automated research synthesis.
+A multithreaded web crawler demonstrating concurrent programming fundamentals — thread pools, mutex-protected shared state, and the producer-consumer pattern.
 
 | Aspect | Details |
 |---|---|
-| **Stack** | Next.js 14, FastAPI, Gemini API, Tavily, Firebase Auth |
-| **Scale** | Multi-agent orchestration with parallel task execution |
-| **Performance** | Optimized async pipelines for concurrent agent execution |
-| **Security** | Firebase Authentication, isolated agent execution contexts |
-| **Impact** | Automates research workflows from query to verified report |
-| **Repository** | [github.com/KunalMK25/research-platform](https://github.com/KunalMK25/research-platform) |
+| **Stack** | Python, concurrent.futures, Threading, Queue |
+| **Scale** | Configurable worker pool, up to 8 concurrent threads |
+| **Performance** | ~4× throughput improvement over sequential crawling |
+| **Security** | Mutex-protected shared state to prevent race conditions |
+| **Impact** | Graceful shutdown, duplicate detection, per-thread result aggregation |
+| **Repository** | [github.com/KunalMK25](https://github.com/KunalMK25) |
 
-Designed with a modular agent architecture allowing each stage to independently verify and refine the previous agent's output, improving factual reliability of generated research reports.
+Designed a ThreadPoolExecutor-based dispatcher that overlaps I/O-bound network requests while keeping shared state (visited-URL set, statistics collector) thread-safe across all workers.
 
 </details>
 
 <details>
-<summary><b>🛡️ ShieldChain — AI-Powered Smart Contract Security Scanner</b></summary>
+<summary><b>🛡️ ShieldChain — AI Smart Contract Security & On-Chain Audit</b></summary>
 <br/>
 
-A security analysis platform combining LLM-based vulnerability detection with on-chain verification, built to identify and register smart contract security risks.
+A multi-agent AI pipeline performing static, semantic, and dynamic analysis on smart contracts, anchoring audit results on-chain for verifiability.
 
 | Aspect | Details |
 |---|---|
-| **Stack** | React, TypeScript, FastAPI, Soroban (Stellar), Groq LLaMA 3.3 |
-| **Scale** | On-chain registry with cross-contract vulnerability tracking |
-| **Performance** | LLM-accelerated static analysis and reporting |
-| **Security** | On-chain immutable vulnerability registry |
-| **Impact** | Proactive smart contract risk identification pre-deployment |
-| **Repository** | Private |
+| **Stack** | Python, AI Agents, Stellar/Soroban, IPFS, SHA-256 |
+| **Scale** | 5 risk-dimension vulnerability analysis per contract |
+| **Performance** | Reduced manual audit time by 60%+ through automation |
+| **Security** | SHA-256 hashing layer + decentralised (IPFS) storage |
+| **Impact** | End-to-end system: AI analysis agents → hashing → decentralised storage |
+| **Repository** | [github.com/KunalMK25](https://github.com/KunalMK25) |
 
-Architected to bridge AI-driven code analysis with blockchain-native verifiability — pairing LLaMA 3.3 reasoning with Stellar's Soroban contracts for tamper-proof audit trails.
+Architected to bridge AI-driven vulnerability detection with blockchain-native verifiability, demonstrating the ability to design and ship systems with multiple integrated components.
+
+</details>
+
+<details>
+<summary><b>🩺 ClaraMed — AI Medical Companion Web App</b></summary>
+<br/>
+
+A premium medical companion web application offering a clean, multilingual interface for symptom explanation, wellness suggestions, medical report analysis, and symptom history tracking.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | Streamlit, LangChain, Groq API, Llama-3.1 |
+| **Scale** | Multilingual, multi-session interactive interface |
+| **Performance** | High-throughput inference via Groq's LPU-accelerated API |
+| **Security** | Local symptom history tracking, no external data exposure |
+| **Impact** | Simplifies symptom understanding and medical PDF report analysis for users |
+| **Repository** | [github.com/KunalMK25](https://github.com/KunalMK25) |
+
+Combines LangChain orchestration with Llama-3.1 on Groq's high-performance inference stack to deliver fast, interactive, multilingual health guidance.
+
+</details>
+
+<details>
+<summary><b>🎓 EduLMS — MERN Stack E-Learning Platform</b></summary>
+<br/>
+
+A simple, user-friendly Learning Management System supporting Students, Instructors, and Admins, built for college project use.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | React (Vite), Tailwind CSS, Node.js, Express, MongoDB, Multer |
+| **Scale** | Role-based dashboards for Students, Instructors, and Admins |
+| **Performance** | Local file-upload pipeline for thumbnails and lesson materials |
+| **Security** | JWT-based authentication and role-based access control |
+| **Impact** | Course creation, enrollment, and content delivery (video/PDF/text) end-to-end |
+| **Repository** | [github.com/KunalMK25](https://github.com/KunalMK25) |
+
+Implements JWT-based auth, instructor course/lesson management, and student enrollment with video and PDF content delivery across a full MERN stack.
 
 </details>
 
@@ -164,40 +218,39 @@ Architected to bridge AI-driven code analysis with blockchain-native verifiabili
 
 ## 💼 Experience
 
-**GDGoC Lead** · Google Developer Groups on Campus, PESCE
-`2025 — Present`
+**Lead — Google Developer Group On Campus (GDGoC)** · PESCE Mandya
+`Jan 2025 — Present`
 
-Leading the campus developer community, organizing large-scale technical events and mentoring student developers in modern software and AI practices.
+Leading the campus developer community, driving technical events and workshops focused on AI and Cloud.
 
-- Organized **AI Arena 2026** — a 6-hour offline competitive AI build sprint hosted on Hack2skill
-- Coordinated with faculty mentors and vice-principal leadership for event execution and approvals
-- Produced end-to-end event collateral: proposals, briefings, mentor pitches, permissions
+- Led a team of 15+ members to plan and deliver 8+ technical events and workshops focused on AI and Cloud
+- Increased community participation by 40% through targeted outreach and hands-on learning sessions
 
-`Community Leadership` `Event Engineering` `AI/ML` `Public Speaking`
+`Community Leadership` `AI/Cloud Workshops` `Team Leadership`
 
 <br/>
 
-**Student Placement Coordinator** · PESCE Mandya
-`2025 — Present`
+**Student Placement Coordinator** · Dept. of Training & Placement, PESCE Mandya
+`2023 — Present`
 
-Bridging students and recruiters, ensuring placement readiness through structured coordination and resource development.
+Bridging students and recruiters, managing end-to-end placement logistics.
 
-- Coordinated placement drives and communication between students and recruiting companies
-- Supported peer technical interview preparation
+- Coordinated 8+ placement drives with 15+ recruiting companies
+- Managed end-to-end interview logistics for 200+ students, reducing placement cycle time through streamlined recruiter–student communication
 
 `Coordination` `Career Development` `Communication`
 
 <br/>
 
-**CSE Club Head** · Department of CSE, PESCE
-`2025 — Present`
+**Club Head, Matrixz CSE** · **Core Member, Institution Innovation Council (IIC)**
+`2023 — Present`
 
-Directing departmental technical initiatives and peer-learning programs.
+Founded and grew a departmental coding community while contributing to campus-wide innovation initiatives.
 
-- Organized **IQ Wars 2.0** under the "Nexovate" banner — multi-round quiz competition
-- Directed technical content creation: quiz questions, taglines, design guidance
+- Founded and grew Matrixz CSE to 100+ members, running regular coding contests and DSA workshops
+- Organised 5+ startup and innovation events through IIC, engaging 150+ students across departments
 
-`Leadership` `Technical Content` `Event Design`
+`Leadership` `DSA Workshops` `Innovation Events`
 
 ---
 
@@ -207,11 +260,10 @@ Directing departmental technical initiatives and peer-learning programs.
 
 | Recognition | Details |
 |---|---|
-| 🥇 **GDGoC Lead** | Selected to lead Google Developer Groups on Campus at PESCE |
-| 🎯 **Event Architect** | Organized AI Arena 2026 — a flagship competitive AI hackathon |
-| 📊 **IIC Core Member** | Institution's Innovation Council core contributor |
-| 🧩 **HackSprint 6.0** | Pitched ShieldChain as a smart contract security solution |
-| 🎓 **Consistent Academic Performer** | Strong academic record in VTU CSE curriculum |
+| 🥇 **HackWithInfy 2026** | Qualified Rounds 1 & 2 by solving advanced DSA problems |
+| 🎯 **Infosys PPI** | Earned a Pre-Placement Interview slot for SP/DSE roles |
+| 💻 **Competitive Programming** | Active on LeetCode & Codeforces — arrays, graphs, DP, greedy algorithms |
+| ☁️ **Google Cloud Skill Boost** | Badges in Generative AI Fundamentals and Google Cloud Fundamentals |
 
 </div>
 
@@ -219,21 +271,10 @@ Directing departmental technical initiatives and peer-learning programs.
 
 ## 📜 Certifications
 
-**AWS**
+**Google Cloud Skill Boost**
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle Cloud](https://img.shields.io/badge/Oracle-Cloud%20Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Mining%20%26%20ML-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Generative AI Fundamentals](https://img.shields.io/badge/Google%20Cloud-Generative%20AI%20Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Cloud Study Jams](https://img.shields.io/badge/Google-Cloud%20Study%20Jams-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -242,9 +283,7 @@ Directing departmental technical initiatives and peer-learning programs.
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](#)
+[![TakeUForward](https://img.shields.io/badge/TakeUForward-4B0082?style=for-the-badge&logo=youtube&logoColor=white)](#)
 
 </div>
 
@@ -265,21 +304,11 @@ Directing departmental technical initiatives and peer-learning programs.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KunalMK25&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"/>
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalMK25&theme=redical&bg_color=0D0221&color=B18CFF&line=9D4EDD&point=E6D9FF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalMK25&theme=radical&bg_color=0D0221&color=B18CFF&line=9D4EDD&point=E6D9FF&hide_border=true"/>
 
 </div>
 
@@ -300,18 +329,17 @@ Directing departmental technical initiatives and peer-learning programs.
 ```yaml
 current_focus:
   learning:
-    - Advanced multi-agent AI orchestration
-    - Distributed systems design
-    - Applied deep learning for geospatial problems
+    - Deep Learning foundations (future specialization)
+    - Advanced DSA for competitive programming
   building:
-    - Verity AI: autonomous research swarm platform
-    - ShieldChain: AI-driven smart contract auditing
+    - AI-integrated tools using LLMs and RAG pipelines
+    - Multi-agent systems for automated analysis
   exploring:
-    - Blockchain-native security architectures
-    - LLM-powered developer tooling
+    - Geospatial ML applications
+    - Blockchain-based verification systems
   open_to:
     - Software Engineering Internships / Full-time Roles
-    - AI/ML Research Collaborations
+    - AI/ML Engineering Opportunities
     - Open Source Contributions
 ```
 
@@ -321,10 +349,9 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalmk2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-m-k-256153171)
 [![GitHub](https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KunalMK25)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
