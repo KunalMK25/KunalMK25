@@ -89,8 +89,9 @@ Engineer:
 **Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,fastapi,jupyter,vscode&theme=dark" />
-![Streamlit](https://img.shields.io/badge/Streamlit-4B0082?style=flat-square&logo=streamlit&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-6A0DAD?style=flat-square&logoColor=white)
+
+<img src="https://img.shields.io/badge/Streamlit-4B0082?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-6A0DAD?style=flat-square&logoColor=white" />
 
 **Cloud**
 
@@ -294,7 +295,7 @@ Founded and grew a departmental coding community while contributing to campus-wi
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=KunalMK25&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=B18CFF&icon_color=9D4EDD&text_color=E6D9FF&ring_color=6A0DAD"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KunalMK25&theme=radical&hide_border=true&background=0D0221&ring=9D4EDD&fire=B18CFF&currStreakLabel=E6D9FF"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=KunalMK25&theme=radical&hide_border=true&background=0D0221&ring=9D4EDD&fire=B18CFF&currStreakLabel=E6D9FF"/>
 
 <br/>
 
