@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:4B0082,100:6A0DAD&height=280&section=header&text=Kunal%20M%20K&fontSize=70&fontColor=E6D9FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B18CFF&center=true&vCenter=true&width=650&lines=Building+AI-Integrated+Systems;Machine+Learning+%7C+Generative+AI+%7C+Multi-Agent+Systems;Competitive+Programmer+%7C+DSA+Enthusiast;Turning+Ideas+Into+Production-Grade+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B18CFF&center=true&vCenter=true&width=850&lines=Building+AI-Integrated+Systems;Machine+Learning+%7C+Generative+AI+%7C+Multi-Agent+Systems;Competitive+Programmer+%7C+DSA+Enthusiast;Turning+Ideas+Into+Production-Grade+Software" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,13 +35,13 @@
 
 I'm a **Computer Science & Engineering** undergraduate (penultimate year) at **P.E.S. College of Engineering (PESCE), Mandya**, based out of Mysore, with hands-on experience building **AI-integrated systems**, **ML pipelines**, and production-grade applications.
 
-I work primarily in **Python, Java, and C++**, with strong foundations in data structures, algorithms, and software design. My project work spans **multi-threaded concurrent systems**, **multi-agent AI pipelines**, **geospatial machine learning**, and **blockchain-based on-chain verification** — using AI tools to understand and integrate the moving parts across these domains rather than building traditional full-stack products.
+I work primarily in **Python and C++** (with working knowledge of Java), with strong foundations in data structures, algorithms, and software design. My project work spans **multi-agent AI pipelines**, **geospatial machine learning**, and **blockchain-based on-chain verification** — using AI tools to understand and integrate the moving parts across these domains rather than building traditional full-stack products.
 
 I'm also an active **competitive programmer** and lead the **Google Developer Group on Campus (GDGoC)** at PESCE, driving technical community outcomes through workshops and events.
 
 ```yaml
 Engineer:
-  focus: [AI/ML Systems, Concurrent & Distributed Programming, Blockchain Integration]
+  focus: [AI/ML Systems, Geospatial ML, Blockchain Integration]
   mindset: Problem-first, detail-driven, always learning
   currently: Sharpening DSA + exploring Deep Learning foundations
 ```
@@ -63,7 +63,7 @@ Engineer:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql&theme=dark" />
 
 **AI & ML**
 
@@ -89,6 +89,8 @@ Engineer:
 **Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,fastapi,jupyter,vscode&theme=dark" />
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Streamlit-4B0082?style=flat-square&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20APIs-6A0DAD?style=flat-square&logoColor=white" />
@@ -123,6 +125,8 @@ Engineer:
 <details>
 <summary><b>🌊 Flood Risk Zonation System</b></summary>
 <br/>
+
+*Turning raw satellite elevation data into real-time, region-agnostic flood risk maps.*
 
 A scalable ML geospatial application processing live satellite data (NASA SRTM 30m DEM) to generate real-time flood risk maps for any global region.
 
@@ -220,7 +224,7 @@ Implements JWT-based auth, instructor course/lesson management, and student enro
 ## 💼 Experience
 
 **Lead — Google Developer Group On Campus (GDGoC)** · PESCE Mandya
-`Jan 2025 — Present`
+`2025 — Present`
 
 Leading the campus developer community, driving technical events and workshops focused on AI and Cloud.
 
@@ -295,7 +299,7 @@ Founded and grew a departmental coding community while contributing to campus-wi
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=KunalMK25&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=B18CFF&icon_color=9D4EDD&text_color=E6D9FF&ring_color=6A0DAD"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=KunalMK25&theme=radical&hide_border=true&background=0D0221&ring=9D4EDD&fire=B18CFF&currStreakLabel=E6D9FF"/>
+<img height="165" src="https://github-readme-streak-stats.vercel.app/?user=KunalMK25&theme=radical&hide_border=true&background=0D0221&ring=9D4EDD&fire=B18CFF&currStreakLabel=E6D9FF"/>
 
 <br/>
 
