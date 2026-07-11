@@ -294,20 +294,6 @@ Founded and grew a departmental coding community while contributing to campus-wi
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KunalMK25&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=B18CFF&icon_color=9D4EDD&text_color=E6D9FF&ring_color=6A0DAD"/>
-<img height="165" src="https://github-readme-streak-stats.vercel.app/?user=KunalMK25&theme=radical&hide_border=true&background=0D0221&ring=9D4EDD&fire=B18CFF&currStreakLabel=E6D9FF"/>
-
-<br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalMK25&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=B18CFF&text_color=E6D9FF"/>
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
