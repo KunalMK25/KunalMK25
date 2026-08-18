@@ -156,7 +156,7 @@ A multithreaded web crawler demonstrating concurrent programming fundamentals �
 | **Performance** | ~4× throughput improvement over sequential crawling |
 | **Security** | Mutex-protected shared state to prevent race conditions |
 | **Impact** | Graceful shutdown, duplicate detection, per-thread result aggregation |
-| **Repository** | [github.com/KunalMK25](https://github.com/KunalMK25) |
+| **Repository** | [github.com/KunalMK25](https://github.com/KunalMK25/flood-risk-zonation) |
 
 Designed a ThreadPoolExecutor-based dispatcher that overlaps I/O-bound network requests while keeping shared state (visited-URL set, statistics collector) thread-safe across all workers.
 
@@ -175,7 +175,7 @@ A multi-agent AI pipeline performing static, semantic, and dynamic analysis on s
 | **Performance** | Reduced manual audit time by 60%+ through automation |
 | **Security** | SHA-256 hashing layer + decentralised (IPFS) storage |
 | **Impact** | End-to-end system: AI analysis agents → hashing → decentralised storage |
-| **Repository** | [github.com/KunalMK25](https://github.com/KunalMK25) |
+| **Repository** | [github.com/KunalMK25](https://github.com/KunalMK25/shieldchain) |
 
 Architected to bridge AI-driven vulnerability detection with blockchain-native verifiability, demonstrating the ability to design and ship systems with multiple integrated components.
 
@@ -194,7 +194,7 @@ A premium medical companion web application offering a clean, multilingual inter
 | **Performance** | High-throughput inference via Groq's LPU-accelerated API |
 | **Security** | Local symptom history tracking, no external data exposure |
 | **Impact** | Simplifies symptom understanding and medical PDF report analysis for users |
-| **Repository** | [github.com/KunalMK25](https://github.com/KunalMK25) |
+| **Repository** | [github.com/KunalMK25](https://github.com/KunalMK25/claramed) |
 
 Combines LangChain orchestration with Llama-3.1 on Groq's high-performance inference stack to deliver fast, interactive, multilingual health guidance.
 
@@ -213,7 +213,7 @@ A simple, user-friendly Learning Management System supporting Students, Instruct
 | **Performance** | Local file-upload pipeline for thumbnails and lesson materials |
 | **Security** | JWT-based authentication and role-based access control |
 | **Impact** | Course creation, enrollment, and content delivery (video/PDF/text) end-to-end |
-| **Repository** | [github.com/KunalMK25](https://github.com/KunalMK25) |
+| **Repository** | [github.com/KunalMK25](https://github.com/KunalMK25/EduLMS) |
 
 Implements JWT-based auth, instructor course/lesson management, and student enrollment with video and PDF content delivery across a full MERN stack.
 
